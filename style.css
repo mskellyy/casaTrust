@@ -14,3 +14,12 @@ h2 {
   display: block;
   margin: 0 auto;
 }
+
+.logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-doc {
+  padding-bottom: 30px;
+}
