@@ -12,6 +12,7 @@ h2 {
 .logo {
   display: block;
   margin: 0 auto;
+  padding-top: 10px;
 }
 
 .main-doc {
